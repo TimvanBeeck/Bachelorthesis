@@ -7,3 +7,4 @@ It deals with a Discontinuous Galerkin discretization for an degenerate diffusio
 In this repository, two jupyter notebooks explaining the implemented discretization for a constant and a non-constant density are provided. Note that the latter does not explain code already explained in the former. 
 
 The code uses the finite element software [NGSolve](https://ngsolve.org), specifically version 6.2.2102-163-g1362a8d5f, which requires Python 3.8 or higher. 
+The thesis can be accessed [here](https://data.goettingen-research-online.de/dataset.xhtml?persistentId=doi:10.25625/IVAWJM).
